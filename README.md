@@ -4,7 +4,6 @@ Transform raw hackathon ideas into comprehensive **Project Design & Requirements
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Gradio](https://img.shields.io/badge/Gradio-4.0+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## ✨ What is Headstart?
 
